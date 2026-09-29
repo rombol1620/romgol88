@@ -456,7 +456,7 @@ function Dashboard({ club, logout }) {
 
       {tab === "fixtures" && <MatchEngine club={club} />}
 
-      <footer>ROMGOL88 • FOOTBALL MANAGER • STAGE 06</footer>
+      <footer>ROMGOL88 • FOOTBALL MANAGER</footer>
     </Shell>
   );
 }
